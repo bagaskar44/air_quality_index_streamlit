@@ -5,7 +5,7 @@ Dashboard ini menampilkan **kualitas udara (AQI)** secara real-time dari beberap
 ---
 
 ### 1. Registrasi & Dapatkan API Token
-Daftar terlebih dahulu untuk mendapatkan token API:
+Daftar untuk mendapatkan token API:
 
 https://aqicn.org/data-platform/token/#/
 
