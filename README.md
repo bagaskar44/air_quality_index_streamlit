@@ -10,6 +10,9 @@ Daftar terlebih dahulu untuk mendapatkan token API:
 https://aqicn.org/data-platform/token/#/
 
 Buat file `.env` pada root project dan masukkan token:
+```sh
+WAQI_TOKEN=your_api_token_here
+```
 
 --- 
 
