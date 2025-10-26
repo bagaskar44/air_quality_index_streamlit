@@ -9,13 +9,13 @@ Daftar terlebih dahulu untuk mendapatkan token API:
 
 https://aqicn.org/data-platform/token/#/
 
-Buat file `.env` pada root project dan masukkan token Anda:
+Buat file `.env` pada root project dan masukkan token:
 
 --- 
 
 
 ### 2. Cari ID Stasiun Target
-Cari stasiun yang Anda inginkan melalui:
+Cari stasiun yang diinginkan melalui:
 
 https://aqicn.org/station/
 
