@@ -1,4 +1,4 @@
-import app as st
+import streamlit as st
 import requests
 import pandas as pd
 import folium
@@ -110,4 +110,5 @@ legend_df = pd.DataFrame({
     "Category": ["Good", "Moderate", "Unhealthy for Sensitive", "Unhealthy", "Very Unhealthy", "Hazardous"],
     "Color": ["🟢", "🟡", "🟠", "🔴", "🟣", "🟤"]
 })
+
 st.dataframe(legend_df, hide_index=True)
