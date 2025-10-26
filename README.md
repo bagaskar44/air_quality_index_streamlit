@@ -4,28 +4,6 @@ Dashboard ini menampilkan **kualitas udara (AQI)** secara real-time dari beberap
 
 ---
 
-### 1. Registrasi & Dapatkan API Token
-Daftar untuk mendapatkan token API:
-
-https://aqicn.org/data-platform/token/#/
-
-Buat file `.env` pada root project dan masukkan token:
-```sh
-WAQI_TOKEN=your_api_token_here
-```
-
---- 
-
-
-### 2. Cari ID Stasiun Target
-Cari stasiun yang diinginkan melalui:
-
-https://aqicn.org/station/
-
-Contoh ID stasiun: `A515941` (Tangerang)
-
----
-
 ## 📦 Instalasi
 
 Clone atau download repository ini:
@@ -39,6 +17,26 @@ Instal dependency
 ```sh
 pip install -r requirements.txt
 ```
+---
+
+### 1. Registrasi & Dapatkan API Token
+Daftar untuk mendapatkan token API:
+
+https://aqicn.org/data-platform/token/#/
+
+Buat file `.env` pada root project dan masukkan token:
+```sh
+WAQI_TOKEN=your_api_token_here
+```
+
+---
+
+### 2. Cari ID Stasiun Target
+Cari stasiun yang diinginkan melalui:
+
+https://aqicn.org/station/
+
+Contoh ID stasiun: `A515941` (Tangerang)
 
 ---
 
